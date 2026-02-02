@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 1,
+    "producer": "Typhon Estates",
+    "name": "{IGNIS} Cabernet Sauvignon",
+    "year": 2022,
+    "type": "red",
+    "region": "Atlas Peak",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.4,
+    "reviewCount": 38,
+    "price": 32.99,
+    "originalPrice": 108.00,
+    "discountPercent": 69,
+    "images": [
+      "/images/wines/typhon-ignis-1.jpg",
+      "/images/wines/typhon-ignis-2.jpg"
+    ],
+    "thumbnail": "/images/wines/typhon-ignis-thumb.jpg",
+    "inStock": true,
+    "matchScore": 95,
+    "merchant": {
+      "name": "World of Wine, Ltd.",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 295.94
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 5,
+      "drySweet": 2,
+      "softAcidic": 5
+    },
+    "flavorNotes": [
+      {
+        "category": "oaky",
+        "flavors": ["Cedar", "tobacco", "chocolate"],
+        "mentions": 26,
+        "color": "#8B4513"
+      },
+      {
+        "category": "black fruit",
+        "flavors": ["Blackberry", "plum", "cassis"],
+        "mentions": 20,
+        "color": "#4169E1"
+      },
+      {
+        "category": "earthy",
+        "flavors": ["Leather", "smoke", "tar"],
+        "mentions": 19,
+        "color": "#A0522D"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "rating": 4.5,
+        "text": "Really nice balance. Good depth and complexity but smooth. Not as bold as other Napa Cabs I've had. Soft oak notes that are well integrated. Cola and baking spices on the finish.",
+        "author": "William Roche",
+        "authorRatings": 1172,
+        "date": "2025-01-15",
+        "helpful": 1,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "producer": "Stag's Leap Wine Cellars",
+    "name": "Battuello Vineyard Cabernet Sauvignon",
+    "year": 2020,
+    "type": "red",
+    "region": "Napa Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.4,
+    "reviewCount": 37,
+    "price": 69.99,
+    "originalPrice": 140.00,
+    "discountPercent": 50,
+    "images": [
+      "/images/wines/stags-leap-battuello.jpg"
+    ],
+    "thumbnail": "/images/wines/stags-leap-battuello-thumb.jpg",
+    "inStock": true,
+    "matchScore": 88,
+    "merchant": {
+      "name": "Wine Merchants Direct",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 8,
+      "smoothTannic": 6,
+      "drySweet": 1,
+      "softAcidic": 4
+    },
+    "flavorNotes": [
+      {
+        "category": "dark fruit",
+        "flavors": ["Black cherry", "blackberry", "plum"],
+        "mentions": 32,
+        "color": "#2C1810"
+      },
+      {
+        "category": "spice",
+        "flavors": ["Vanilla", "clove", "cinnamon"],
+        "mentions": 18,
+        "color": "#CD853F"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 2,
+        "rating": 4.5,
+        "text": "Classic Napa Cab. Rich and powerful with great structure. Perfect with steak.",
+        "author": "Sarah Mitchell",
+        "authorRatings": 843,
+        "date": "2025-01-10",
+        "helpful": 3,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "producer": "Kukeri",
+    "name": "Cabernet Sauvignon",
+    "year": 2021,
+    "type": "red",
+    "region": "Stags Leap District",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.4,
+    "reviewCount": 147,
+    "price": 85.00,
+    "originalPrice": 85.00,
+    "discountPercent": 0,
+    "images": [
+      "/images/wines/kukeri-cab.jpg"
+    ],
+    "thumbnail": "/images/wines/kukeri-cab-thumb.jpg",
+    "inStock": true,
+    "matchScore": 90,
+    "merchant": {
+      "name": "Napa Wine Collective",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 480.00
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 7,
+      "drySweet": 1,
+      "softAcidic": 5
+    },
+    "flavorNotes": [
+      {
+        "category": "berry",
+        "flavors": ["Blackberry", "raspberry", "blueberry"],
+        "mentions": 28,
+        "color": "#8B008B"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 3,
+        "rating": 4.0,
+        "text": "Excellent wine from Stags Leap. Good tannins and balance.",
+        "author": "Michael Chen",
+        "authorRatings": 456,
+        "date": "2024-12-20",
+        "helpful": 2,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "producer": "Frank Family",
+    "name": "Cabernet Sauvignon",
+    "year": 2022,
+    "type": "red",
+    "region": "Napa Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.3,
+    "reviewCount": 1107,
+    "price": 52.99,
+    "originalPrice": 52.99,
+    "discountPercent": 0,
+    "images": [
+      "/images/wines/frank-family-cab.jpg"
+    ],
+    "thumbnail": "/images/wines/frank-family-cab-thumb.jpg",
+    "inStock": true,
+    "matchScore": 85,
+    "merchant": {
+      "name": "Premium Wine Merchants",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-08"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 315.00
+    },
+    "tasteProfile": {
+      "lightBold": 6,
+      "smoothTannic": 5,
+      "drySweet": 2,
+      "softAcidic": 4
+    },
+    "flavorNotes": [
+      {
+        "category": "fruit",
+        "flavors": ["Cherry", "plum", "currant"],
+        "mentions": 24,
+        "color": "#DC143C"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 4,
+        "rating": 4.5,
+        "text": "Consistently good Napa Cab. Great value for the quality.",
+        "author": "Jennifer Lopez",
+        "authorRatings": 892,
+        "date": "2025-01-05",
+        "helpful": 5,
+        "comments": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "producer": "Chappellet",
+    "name": "Signature Cabernet Sauvignon",
+    "year": 2022,
+    "type": "red",
+    "region": "Napa Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.4,
+    "reviewCount": 167,
+    "price": 48.99,
+    "originalPrice": 95.00,
+    "discountPercent": 48,
+    "images": [
+      "/images/wines/chappellet-signature.jpg"
+    ],
+    "thumbnail": "/images/wines/chappellet-signature-thumb.jpg",
+    "inStock": true,
+    "matchScore": 92,
+    "merchant": {
+      "name": "Wine Warehouse",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 6,
+      "drySweet": 1,
+      "softAcidic": 5
+    },
+    "flavorNotes": [
+      {
+        "category": "dark fruit",
+        "flavors": ["Blackberry", "black cherry"],
+        "mentions": 22,
+        "color": "#2C1810"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "producer": "Buena Vista",
+    "name": "La Victoire Brut Rosé Champagne",
+    "year": 2020,
+    "type": "sparkling",
+    "region": "Champagne",
+    "country": "France",
+    "countryCode": "FR",
+    "regionalStyle": "Champagne Brut Rosé",
+    "grapes": ["Pinot Noir", "Chardonnay"],
+    "rating": 4.3,
+    "reviewCount": 628,
+    "price": 34.99,
+    "originalPrice": 75.00,
+    "discountPercent": 53,
+    "images": [
+      "/images/wines/buena-vista-champagne.jpg"
+    ],
+    "thumbnail": "/images/wines/buena-vista-champagne-thumb.jpg",
+    "inStock": true,
+    "matchScore": 78,
+    "merchant": {
+      "name": "Champagne House Direct",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-06",
+      "estimatedEnd": "2026-02-08"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 2,
+      "drySweet": 3,
+      "softAcidic": 7
+    },
+    "flavorNotes": [
+      {
+        "category": "citrus",
+        "flavors": ["Lemon", "grapefruit"],
+        "mentions": 15,
+        "color": "#FFD700"
+      },
+      {
+        "category": "berry",
+        "flavors": ["Strawberry", "raspberry"],
+        "mentions": 12,
+        "color": "#FF69B4"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 5,
+        "rating": 4.0,
+        "text": "Lovely rosé champagne. Great for celebrations and pairs well with brunch.",
+        "author": "Emily Watson",
+        "authorRatings": 234,
+        "date": "2024-12-15",
+        "helpful": 4,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "producer": "Tuscan Kiss",
+    "name": "Tuscan Kiss",
+    "year": 2023,
+    "type": "white",
+    "region": "Tuscany",
+    "country": "Italy",
+    "countryCode": "IT",
+    "regionalStyle": "Tuscan White Blend",
+    "grapes": ["Vermentino", "Trebbiano"],
+    "rating": 4.2,
+    "reviewCount": 89,
+    "price": 14.99,
+    "originalPrice": 30.00,
+    "discountPercent": 50,
+    "images": [
+      "/images/wines/tuscan-kiss.jpg"
+    ],
+    "thumbnail": "/images/wines/tuscan-kiss-thumb.jpg",
+    "inStock": true,
+    "matchScore": 72,
+    "merchant": {
+      "name": "Italian Wine Imports",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 89.94
+    },
+    "tasteProfile": {
+      "lightBold": 2,
+      "smoothTannic": 1,
+      "drySweet": 4,
+      "softAcidic": 6
+    },
+    "flavorNotes": [
+      {
+        "category": "citrus",
+        "flavors": ["Lemon", "lime", "orange blossom"],
+        "mentions": 18,
+        "color": "#FFD700"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 6,
+        "rating": 4.0,
+        "text": "Crisp and refreshing. Perfect summer wine.",
+        "author": "David Rodriguez",
+        "authorRatings": 567,
+        "date": "2025-01-12",
+        "helpful": 2,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "producer": "Stag's Leap Wine Cellars",
+    "name": "ARTEMIS Cabernet Sauvignon",
+    "year": 2022,
+    "type": "red",
+    "region": "Napa Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Napa Valley Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 4.3,
+    "reviewCount": 456,
+    "price": 63.00,
+    "originalPrice": 75.00,
+    "discountPercent": 16,
+    "images": [
+      "/images/wines/stags-leap-artemis.jpg"
+    ],
+    "thumbnail": "/images/wines/stags-leap-artemis-thumb.jpg",
+    "inStock": true,
+    "matchScore": 89,
+    "merchant": {
+      "name": "Napa Direct Wines",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 378.00
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 6,
+      "drySweet": 1,
+      "softAcidic": 4
+    },
+    "flavorNotes": [
+      {
+        "category": "dark fruit",
+        "flavors": ["Blackberry", "cassis"],
+        "mentions": 25,
+        "color": "#2C1810"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "producer": "DAOU",
+    "name": "Cabernet Sauvignon",
+    "year": 2023,
+    "type": "red",
+    "region": "Paso Robles",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Paso Robles Cabernet Sauvignon",
+    "grapes": ["Cabernet Sauvignon"],
+    "rating": 3.9,
+    "reviewCount": 1611,
+    "price": 14.99,
+    "originalPrice": 30.00,
+    "discountPercent": 50,
+    "images": [
+      "/images/wines/daou-cab.jpg"
+    ],
+    "thumbnail": "/images/wines/daou-cab-thumb.jpg",
+    "inStock": true,
+    "matchScore": 82,
+    "merchant": {
+      "name": "California Wine Collective",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 89.94
+    },
+    "tasteProfile": {
+      "lightBold": 6,
+      "smoothTannic": 5,
+      "drySweet": 2,
+      "softAcidic": 4
+    },
+    "flavorNotes": [
+      {
+        "category": "fruit",
+        "flavors": ["Cherry", "plum"],
+        "mentions": 20,
+        "color": "#DC143C"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 7,
+        "rating": 4.0,
+        "text": "Great value Cab. Solid everyday drinking wine.",
+        "author": "Robert Johnson",
+        "authorRatings": 345,
+        "date": "2025-01-08",
+        "helpful": 6,
+        "comments": 2
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "producer": "Bernard",
+    "name": "Marinus Red Blend",
+    "year": 2021,
+    "type": "red",
+    "region": "Carmel Valley",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Bordeaux-style Red Blend",
+    "grapes": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc"],
+    "rating": 4.3,
+    "reviewCount": 234,
+    "price": 39.99,
+    "originalPrice": 150.00,
+    "discountPercent": 73,
+    "images": [
+      "/images/wines/bernard-marinus.jpg"
+    ],
+    "thumbnail": "/images/wines/bernard-marinus-thumb.jpg",
+    "inStock": true,
+    "matchScore": 86,
+    "merchant": {
+      "name": "Monterey Wine Merchants",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-06",
+      "estimatedEnd": "2026-02-08"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 6,
+      "drySweet": 1,
+      "softAcidic": 5
+    },
+    "flavorNotes": [
+      {
+        "category": "dark fruit",
+        "flavors": ["Blackberry", "black cherry"],
+        "mentions": 22,
+        "color": "#2C1810"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "producer": "Ruinart",
+    "name": "Brut Rosé Champagne",
+    "year": 2019,
+    "type": "sparkling",
+    "region": "Champagne",
+    "country": "France",
+    "countryCode": "FR",
+    "regionalStyle": "Champagne Brut Rosé",
+    "grapes": ["Chardonnay", "Pinot Noir"],
+    "rating": 4.4,
+    "reviewCount": 27009,
+    "price": 99.99,
+    "originalPrice": 130.00,
+    "discountPercent": 23,
+    "images": [
+      "/images/wines/ruinart-rose.jpg"
+    ],
+    "thumbnail": "/images/wines/ruinart-rose-thumb.jpg",
+    "inStock": true,
+    "matchScore": 94,
+    "merchant": {
+      "name": "Fine Champagne House",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 2,
+      "drySweet": 2,
+      "softAcidic": 7
+    },
+    "flavorNotes": [
+      {
+        "category": "berry",
+        "flavors": ["Strawberry", "raspberry", "cherry"],
+        "mentions": 45,
+        "color": "#FF69B4"
+      },
+      {
+        "category": "floral",
+        "flavors": ["Rose", "honeysuckle"],
+        "mentions": 28,
+        "color": "#FFB6C1"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 8,
+        "rating": 4.5,
+        "text": "One of the finest rosé champagnes. Elegant and refined with beautiful bubbles.",
+        "author": "Sophie Laurent",
+        "authorRatings": 1823,
+        "date": "2024-12-28",
+        "helpful": 12,
+        "comments": 3
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "producer": "Laurent-Perrier",
+    "name": "Cuvée Rosé",
+    "year": 2020,
+    "type": "sparkling",
+    "region": "Champagne",
+    "country": "France",
+    "countryCode": "FR",
+    "regionalStyle": "Champagne Brut Rosé",
+    "grapes": ["Pinot Noir"],
+    "rating": 4.4,
+    "reviewCount": 41680,
+    "price": 84.98,
+    "originalPrice": 89.99,
+    "discountPercent": 5,
+    "images": [
+      "/images/wines/laurent-perrier-rose.jpg"
+    ],
+    "thumbnail": "/images/wines/laurent-perrier-rose-thumb.jpg",
+    "inStock": true,
+    "matchScore": 91,
+    "merchant": {
+      "name": "Luxury Wine Imports",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 2,
+      "drySweet": 2,
+      "softAcidic": 8
+    },
+    "flavorNotes": [
+      {
+        "category": "berry",
+        "flavors": ["Strawberry", "red currant"],
+        "mentions": 38,
+        "color": "#FF69B4"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 9,
+        "rating": 4.5,
+        "text": "Classic rosé champagne. Always a crowd pleaser at celebrations.",
+        "author": "Marcus Williams",
+        "authorRatings": 976,
+        "date": "2025-01-02",
+        "helpful": 8,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "producer": "Louis Roederer",
+    "name": "Collection 245 Champagne",
+    "year": 2020,
+    "type": "sparkling",
+    "region": "Champagne",
+    "country": "France",
+    "countryCode": "FR",
+    "regionalStyle": "Champagne Brut",
+    "grapes": ["Chardonnay", "Pinot Noir", "Pinot Meunier"],
+    "rating": 4.2,
+    "reviewCount": 3452,
+    "price": 65.00,
+    "originalPrice": 65.00,
+    "discountPercent": 0,
+    "images": [
+      "/images/wines/louis-roederer-245.jpg"
+    ],
+    "thumbnail": "/images/wines/louis-roederer-245-thumb.jpg",
+    "inStock": true,
+    "matchScore": 87,
+    "merchant": {
+      "name": "Champagne Specialists",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 390.00
+    },
+    "tasteProfile": {
+      "lightBold": 4,
+      "smoothTannic": 2,
+      "drySweet": 2,
+      "softAcidic": 7
+    },
+    "flavorNotes": [
+      {
+        "category": "citrus",
+        "flavors": ["Lemon", "lime"],
+        "mentions": 24,
+        "color": "#FFD700"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 14,
+    "producer": "Schramsberg",
+    "name": "Brut Rosé",
+    "year": 2019,
+    "type": "sparkling",
+    "region": "North Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "California Sparkling Wine",
+    "grapes": ["Pinot Noir", "Chardonnay"],
+    "rating": 4.2,
+    "reviewCount": 240,
+    "price": 48.29,
+    "originalPrice": 48.29,
+    "discountPercent": 0,
+    "images": [
+      "/images/wines/schramsberg-rose.jpg"
+    ],
+    "thumbnail": "/images/wines/schramsberg-rose-thumb.jpg",
+    "inStock": true,
+    "matchScore": 83,
+    "merchant": {
+      "name": "California Sparkling Wines",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 289.74
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 2,
+      "drySweet": 3,
+      "softAcidic": 7
+    },
+    "flavorNotes": [
+      {
+        "category": "berry",
+        "flavors": ["Strawberry", "cherry"],
+        "mentions": 16,
+        "color": "#FF69B4"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 10,
+        "rating": 4.0,
+        "text": "Excellent American sparkling wine. Great alternative to Champagne.",
+        "author": "Lisa Anderson",
+        "authorRatings": 567,
+        "date": "2024-12-10",
+        "helpful": 3,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "producer": "Heever",
+    "name": "Semi-Dry Riesling",
+    "year": 2023,
+    "type": "white",
+    "region": "Mosel",
+    "country": "Germany",
+    "countryCode": "DE",
+    "regionalStyle": "Mosel Riesling",
+    "grapes": ["Riesling"],
+    "rating": 4.1,
+    "reviewCount": 156,
+    "price": 22.99,
+    "originalPrice": 22.99,
+    "discountPercent": 0,
+    "images": [
+      "/images/wines/heever-riesling.jpg"
+    ],
+    "thumbnail": "/images/wines/heever-riesling-thumb.jpg",
+    "inStock": true,
+    "matchScore": 76,
+    "merchant": {
+      "name": "German Wine Imports",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-06",
+      "estimatedEnd": "2026-02-08"
+    },
+    "mixedCase": {
+      "available": false,
+      "price": null
+    },
+    "tasteProfile": {
+      "lightBold": 2,
+      "smoothTannic": 1,
+      "drySweet": 6,
+      "softAcidic": 8
+    },
+    "flavorNotes": [
+      {
+        "category": "citrus",
+        "flavors": ["Lime", "lemon", "grapefruit"],
+        "mentions": 19,
+        "color": "#FFD700"
+      },
+      {
+        "category": "stone fruit",
+        "flavors": ["Peach", "apricot"],
+        "mentions": 14,
+        "color": "#FFDAB9"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 16,
+    "producer": "Cloudy Bay",
+    "name": "Sauvignon Blanc",
+    "year": 2023,
+    "type": "white",
+    "region": "Marlborough",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "regionalStyle": "Marlborough Sauvignon Blanc",
+    "grapes": ["Sauvignon Blanc"],
+    "rating": 4.1,
+    "reviewCount": 8934,
+    "price": 28.99,
+    "originalPrice": 32.99,
+    "discountPercent": 12,
+    "images": [
+      "/images/wines/cloudy-bay-sauv.jpg"
+    ],
+    "thumbnail": "/images/wines/cloudy-bay-sauv-thumb.jpg",
+    "inStock": true,
+    "matchScore": 80,
+    "merchant": {
+      "name": "New World Wines",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 173.94
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 1,
+      "drySweet": 2,
+      "softAcidic": 8
+    },
+    "flavorNotes": [
+      {
+        "category": "tropical",
+        "flavors": ["Passion fruit", "grapefruit", "lime"],
+        "mentions": 32,
+        "color": "#FFD700"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 11,
+        "rating": 4.0,
+        "text": "Classic Marlborough Sauvignon Blanc. Crisp and vibrant.",
+        "author": "Rachel Green",
+        "authorRatings": 1234,
+        "date": "2025-01-14",
+        "helpful": 7,
+        "comments": 2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "producer": "Château d'Esclans",
+    "name": "Whispering Angel Rosé",
+    "year": 2023,
+    "type": "rose",
+    "region": "Provence",
+    "country": "France",
+    "countryCode": "FR",
+    "regionalStyle": "Provence Rosé",
+    "grapes": ["Grenache", "Cinsault", "Rolle"],
+    "rating": 3.9,
+    "reviewCount": 12456,
+    "price": 24.99,
+    "originalPrice": 27.99,
+    "discountPercent": 11,
+    "images": [
+      "/images/wines/whispering-angel.jpg"
+    ],
+    "thumbnail": "/images/wines/whispering-angel-thumb.jpg",
+    "inStock": true,
+    "matchScore": 75,
+    "merchant": {
+      "name": "French Wine Specialists",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 149.94
+    },
+    "tasteProfile": {
+      "lightBold": 2,
+      "smoothTannic": 1,
+      "drySweet": 4,
+      "softAcidic": 6
+    },
+    "flavorNotes": [
+      {
+        "category": "berry",
+        "flavors": ["Strawberry", "raspberry"],
+        "mentions": 28,
+        "color": "#FFB6C1"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 12,
+        "rating": 4.0,
+        "text": "The quintessential Provence rosé. Perfect for summer.",
+        "author": "Amanda Miller",
+        "authorRatings": 678,
+        "date": "2024-12-22",
+        "helpful": 5,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "producer": "Meiomi",
+    "name": "Pinot Noir",
+    "year": 2022,
+    "type": "red",
+    "region": "California",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "California Pinot Noir",
+    "grapes": ["Pinot Noir"],
+    "rating": 3.8,
+    "reviewCount": 15234,
+    "price": 18.99,
+    "originalPrice": 22.99,
+    "discountPercent": 17,
+    "images": [
+      "/images/wines/meiomi-pinot.jpg"
+    ],
+    "thumbnail": "/images/wines/meiomi-pinot-thumb.jpg",
+    "inStock": true,
+    "matchScore": 70,
+    "merchant": {
+      "name": "California Wine Direct",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 113.94
+    },
+    "tasteProfile": {
+      "lightBold": 5,
+      "smoothTannic": 3,
+      "drySweet": 3,
+      "softAcidic": 5
+    },
+    "flavorNotes": [
+      {
+        "category": "red fruit",
+        "flavors": ["Cherry", "raspberry", "strawberry"],
+        "mentions": 34,
+        "color": "#DC143C"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 13,
+        "rating": 4.0,
+        "text": "Smooth and approachable Pinot Noir. Great everyday wine.",
+        "author": "Chris Brown",
+        "authorRatings": 892,
+        "date": "2025-01-11",
+        "helpful": 9,
+        "comments": 3
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "producer": "Kim Crawford",
+    "name": "Sauvignon Blanc",
+    "year": 2023,
+    "type": "white",
+    "region": "Marlborough",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "regionalStyle": "Marlborough Sauvignon Blanc",
+    "grapes": ["Sauvignon Blanc"],
+    "rating": 3.9,
+    "reviewCount": 18567,
+    "price": 16.99,
+    "originalPrice": 19.99,
+    "discountPercent": 15,
+    "images": [
+      "/images/wines/kim-crawford-sauv.jpg"
+    ],
+    "thumbnail": "/images/wines/kim-crawford-sauv-thumb.jpg",
+    "inStock": true,
+    "matchScore": 73,
+    "merchant": {
+      "name": "Value Wine Merchants",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 101.94
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 1,
+      "drySweet": 2,
+      "softAcidic": 8
+    },
+    "flavorNotes": [
+      {
+        "category": "tropical",
+        "flavors": ["Passion fruit", "citrus"],
+        "mentions": 26,
+        "color": "#FFD700"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 20,
+    "producer": "La Crema",
+    "name": "Chardonnay",
+    "year": 2022,
+    "type": "white",
+    "region": "Sonoma Coast",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "Sonoma Coast Chardonnay",
+    "grapes": ["Chardonnay"],
+    "rating": 4.0,
+    "reviewCount": 5678,
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discountPercent": 20,
+    "images": [
+      "/images/wines/la-crema-chard.jpg"
+    ],
+    "thumbnail": "/images/wines/la-crema-chard-thumb.jpg",
+    "inStock": true,
+    "matchScore": 77,
+    "merchant": {
+      "name": "Sonoma Wine Collective",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 119.94
+    },
+    "tasteProfile": {
+      "lightBold": 4,
+      "smoothTannic": 2,
+      "drySweet": 3,
+      "softAcidic": 6
+    },
+    "flavorNotes": [
+      {
+        "category": "fruit",
+        "flavors": ["Apple", "pear", "citrus"],
+        "mentions": 22,
+        "color": "#F0E68C"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 14,
+        "rating": 4.0,
+        "text": "Well-balanced Chardonnay with nice oak integration.",
+        "author": "Karen White",
+        "authorRatings": 543,
+        "date": "2024-12-18",
+        "helpful": 4,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "producer": "Oyster Bay",
+    "name": "Sauvignon Blanc",
+    "year": 2023,
+    "type": "white",
+    "region": "Marlborough",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "regionalStyle": "Marlborough Sauvignon Blanc",
+    "grapes": ["Sauvignon Blanc"],
+    "rating": 3.8,
+    "reviewCount": 14567,
+    "price": 13.99,
+    "originalPrice": 15.99,
+    "discountPercent": 13,
+    "images": [
+      "/images/wines/oyster-bay-sauv.jpg"
+    ],
+    "thumbnail": "/images/wines/oyster-bay-sauv-thumb.jpg",
+    "inStock": true,
+    "matchScore": 69,
+    "merchant": {
+      "name": "Everyday Wine Shop",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-06",
+      "estimatedEnd": "2026-02-08"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 83.94
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 1,
+      "drySweet": 1,
+      "softAcidic": 8
+    },
+    "flavorNotes": [
+      {
+        "category": "citrus",
+        "flavors": ["Grapefruit", "lime"],
+        "mentions": 18,
+        "color": "#FFD700"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 22,
+    "producer": "Apothic",
+    "name": "Red Blend",
+    "year": 2022,
+    "type": "red",
+    "region": "California",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "California Red Blend",
+    "grapes": ["Zinfandel", "Merlot", "Syrah", "Cabernet Sauvignon"],
+    "rating": 3.7,
+    "reviewCount": 23456,
+    "price": 11.99,
+    "originalPrice": 13.99,
+    "discountPercent": 14,
+    "images": [
+      "/images/wines/apothic-red.jpg"
+    ],
+    "thumbnail": "/images/wines/apothic-red-thumb.jpg",
+    "inStock": true,
+    "matchScore": 65,
+    "merchant": {
+      "name": "Budget Wine Warehouse",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 71.94
+    },
+    "tasteProfile": {
+      "lightBold": 6,
+      "smoothTannic": 4,
+      "drySweet": 5,
+      "softAcidic": 3
+    },
+    "flavorNotes": [
+      {
+        "category": "dark fruit",
+        "flavors": ["Blackberry", "plum"],
+        "mentions": 28,
+        "color": "#2C1810"
+      },
+      {
+        "category": "sweet",
+        "flavors": ["Vanilla", "mocha"],
+        "mentions": 19,
+        "color": "#8B4513"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 15,
+        "rating": 3.5,
+        "text": "Sweet and smooth. Great for beginners.",
+        "author": "Jessica Taylor",
+        "authorRatings": 234,
+        "date": "2025-01-07",
+        "helpful": 2,
+        "comments": 1
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "producer": "19 Crimes",
+    "name": "Red Blend",
+    "year": 2022,
+    "type": "red",
+    "region": "South Eastern Australia",
+    "country": "Australia",
+    "countryCode": "AU",
+    "regionalStyle": "Australian Red Blend",
+    "grapes": ["Shiraz", "Cabernet Sauvignon", "Grenache"],
+    "rating": 3.6,
+    "reviewCount": 19876,
+    "price": 9.99,
+    "originalPrice": 11.99,
+    "discountPercent": 17,
+    "images": [
+      "/images/wines/19-crimes.jpg"
+    ],
+    "thumbnail": "/images/wines/19-crimes-thumb.jpg",
+    "inStock": true,
+    "matchScore": 62,
+    "merchant": {
+      "name": "Value Wine Direct",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 59.94
+    },
+    "tasteProfile": {
+      "lightBold": 7,
+      "smoothTannic": 5,
+      "drySweet": 4,
+      "softAcidic": 4
+    },
+    "flavorNotes": [
+      {
+        "category": "fruit",
+        "flavors": ["Cherry", "plum"],
+        "mentions": 24,
+        "color": "#DC143C"
+      }
+    ],
+    "reviews": []
+  },
+  {
+    "id": 24,
+    "producer": "Ruffino",
+    "name": "Chianti",
+    "year": 2021,
+    "type": "red",
+    "region": "Tuscany",
+    "country": "Italy",
+    "countryCode": "IT",
+    "regionalStyle": "Chianti",
+    "grapes": ["Sangiovese"],
+    "rating": 3.9,
+    "reviewCount": 8765,
+    "price": 12.99,
+    "originalPrice": 15.99,
+    "discountPercent": 19,
+    "images": [
+      "/images/wines/ruffino-chianti.jpg"
+    ],
+    "thumbnail": "/images/wines/ruffino-chianti-thumb.jpg",
+    "inStock": true,
+    "matchScore": 71,
+    "merchant": {
+      "name": "Italian Wine Imports",
+      "location": "New York"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-05",
+      "estimatedEnd": "2026-02-07"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 77.94
+    },
+    "tasteProfile": {
+      "lightBold": 5,
+      "smoothTannic": 6,
+      "drySweet": 1,
+      "softAcidic": 7
+    },
+    "flavorNotes": [
+      {
+        "category": "red fruit",
+        "flavors": ["Cherry", "strawberry"],
+        "mentions": 21,
+        "color": "#DC143C"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 16,
+        "rating": 4.0,
+        "text": "Classic Chianti. Perfect with Italian food.",
+        "author": "Marco Rossi",
+        "authorRatings": 1456,
+        "date": "2024-12-25",
+        "helpful": 6,
+        "comments": 2
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "producer": "Conundrum",
+    "name": "White Blend",
+    "year": 2023,
+    "type": "white",
+    "region": "California",
+    "country": "United States",
+    "countryCode": "US",
+    "regionalStyle": "California White Blend",
+    "grapes": ["Chardonnay", "Sauvignon Blanc", "Muscat"],
+    "rating": 3.8,
+    "reviewCount": 7654,
+    "price": 17.99,
+    "originalPrice": 21.99,
+    "discountPercent": 18,
+    "images": [
+      "/images/wines/conundrum-white.jpg"
+    ],
+    "thumbnail": "/images/wines/conundrum-white-thumb.jpg",
+    "inStock": true,
+    "matchScore": 74,
+    "merchant": {
+      "name": "California Wine Merchants",
+      "location": "California"
+    },
+    "delivery": {
+      "estimatedStart": "2026-02-04",
+      "estimatedEnd": "2026-02-06"
+    },
+    "mixedCase": {
+      "available": true,
+      "price": 107.94
+    },
+    "tasteProfile": {
+      "lightBold": 3,
+      "smoothTannic": 1,
+      "drySweet": 4,
+      "softAcidic": 6
+    },
+    "flavorNotes": [
+      {
+        "category": "tropical",
+        "flavors": ["Peach", "apricot", "pineapple"],
+        "mentions": 17,
+        "color": "#FFDAB9"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 17,
+        "rating": 4.0,
+        "text": "Unique and aromatic white blend. Very food-friendly.",
+        "author": "Nicole Davis",
+        "authorRatings": 678,
+        "date": "2025-01-09",
+        "helpful": 3,
+        "comments": 0
+      }
+    ]
+  }
+]
