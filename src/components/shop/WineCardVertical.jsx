@@ -1,7 +1,10 @@
+import { useNavigate } from 'react-router-dom';
 import { getCountryFlag, formatPrice } from '../../utils/helpers';
 import { getMockBottleImage } from '../../utils/wineImages';
 
 const WineCardVertical = ({ wine, onAddToCart }) => {
+  const navigate = useNavigate();
+  
   const {
     id,
     producer,
@@ -21,8 +24,20 @@ const WineCardVertical = ({ wine, onAddToCart }) => {
   const flag = getCountryFlag(countryCode);
   const mockBottleImage = getMockBottleImage(type, id);
 
+  const handleCardClick = () => {
+    navigate(`/wine/${id}`);
+  };
+
+  const handleAddToCart = (e) => {
+    e.stopPropagation(); // Prevent card click when clicking cart button
+    onAddToCart(id);
+  };
+
   return (
-    <div className="flex bg-white rounded-lg shadow-sm border border-gray-100 p-4 mb-3 mx-3">
+    <div 
+      onClick={handleCardClick}
+      className="flex bg-white rounded-lg shadow-sm border border-gray-100 p-4 mb-3 mx-3 cursor-pointer hover:shadow-md transition-shadow"
+    >
       {/* Wine Image Section */}
       <div className="relative flex-shrink-0 w-[140px] h-[180px]">
         {/* Discount Badge */}
@@ -76,7 +91,10 @@ const WineCardVertical = ({ wine, onAddToCart }) => {
           </div>
 
           {/* Bookmark icon */}
-          <button className="p-1 text-gray-400 hover:text-gray-600">
+          <button 
+            onClick={(e) => e.stopPropagation()}
+            className="p-1 text-gray-400 hover:text-gray-600"
+          >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
             </svg>
@@ -97,7 +115,7 @@ const WineCardVertical = ({ wine, onAddToCart }) => {
 
           {/* Add to Cart button */}
           <button
-            onClick={() => onAddToCart(id)}
+            onClick={handleAddToCart}
             className="flex items-center justify-center w-11 h-11 bg-vivino-green rounded-full shadow-md hover:bg-green-700 transition-colors"
           >
             <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
