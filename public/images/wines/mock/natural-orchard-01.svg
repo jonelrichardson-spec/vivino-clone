@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="1080" viewBox="0 0 420 1080" role="img" aria-label="Mock natural wine bottle Orchard Field Blend">
+  <defs>
+    <linearGradient id="glassGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7f5b3f"/>
+      <stop offset="100%" stop-color="#3e2a1e"/>
+    </linearGradient>
+    <linearGradient id="capsuleGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6c8d4a"/>
+      <stop offset="100%" stop-color="#3f5c28"/>
+    </linearGradient>
+    <linearGradient id="labelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf6ea"/>
+      <stop offset="100%" stop-color="#f0e6ce"/>
+    </linearGradient>
+    <linearGradient id="shadowGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="210" cy="1010" rx="98" ry="20" fill="#000" fill-opacity="0.12"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="174" y="48" width="72" height="160" rx="16" fill="url(#capsuleGrad)"/>
+    <rect x="180" y="78" width="60" height="8" rx="4" fill="#fff" opacity="0.25"/>
+    <rect x="184" y="122" width="52" height="7" rx="3.5" fill="#fff" opacity="0.17"/>
+
+    <rect x="184" y="196" width="52" height="152" rx="22" fill="url(#glassGrad)"/>
+
+    <path d="M184 332 C184 356 166 370 150 388 C130 410 126 438 126 472 L126 882 C126 936 149 962 210 962 C271 962 294 936 294 882 L294 472 C294 438 290 410 270 388 C254 370 236 356 236 332 Z" fill="url(#glassGrad)"/>
+
+    <path d="M137 496 C137 430 154 396 178 380" stroke="#fff" stroke-width="18" stroke-linecap="round" stroke-opacity="0.19"/>
+    <path d="M286 520 C286 468 272 426 244 398" stroke="#fff" stroke-width="13" stroke-linecap="round" stroke-opacity="0.11"/>
+    <rect x="120" y="458" width="180" height="8" fill="#000" opacity="0.08"/>
+
+    <rect x="112" y="560" width="196" height="264" rx="10" fill="url(#labelGrad)" stroke="#cab78d" stroke-width="2"/>
+    <rect x="134" y="586" width="152" height="2" fill="#6e8a44" opacity="0.75"/>
+    <rect x="134" y="796" width="152" height="2" fill="#6e8a44" opacity="0.75"/>
+
+    <text x="210" y="638" text-anchor="middle" font-size="28" letter-spacing="4" fill="#567133" font-family="Georgia, 'Times New Roman', serif">ORCHARD</text>
+    <text x="210" y="686" text-anchor="middle" font-size="20" letter-spacing="2.2" fill="#7a6335" font-family="'Avenir Next', Arial, sans-serif">FIELD BLEND</text>
+    <text x="210" y="726" text-anchor="middle" font-size="17" letter-spacing="1.8" fill="#665d49" font-family="'Avenir Next', Arial, sans-serif">NATURAL WINE</text>
+
+    <path d="M157 756 H263" stroke="#6e8a44" stroke-width="1.5" opacity="0.6"/>
+    <text x="210" y="777" text-anchor="middle" font-size="14" letter-spacing="2.6" fill="#665d49" opacity="0.9" font-family="'Avenir Next', Arial, sans-serif">UNFILTERED 2023</text>
+
+    <path d="M194 614 C182 598 184 576 202 568 C206 582 204 598 194 614 Z M226 614 C238 598 236 576 218 568 C214 582 216 598 226 614 Z" fill="#72964a" opacity="0.82"/>
+    <rect x="132" y="858" width="156" height="70" rx="4" fill="url(#shadowGrad)" opacity="0.14"/>
+  </g>
+</svg>
