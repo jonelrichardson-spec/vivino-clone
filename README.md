@@ -2,6 +2,8 @@
 
 > Pixel-perfect clone of the Vivino wine app, built to study the engineering behind deceptively simple nested scroll interfaces.
 
+![Vivino Clone](docs/screenshot.png)
+
 **Live:** [lubakaper.github.io/VivinoVersion2](https://lubakaper.github.io/VivinoVersion2/#/shop)
 
 ## The Problem
