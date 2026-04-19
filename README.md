@@ -39,7 +39,7 @@ A pixel-perfect desktop clone of Vivino's wine browsing interface with independe
 ## Getting Started
 
 ```bash
-git clone https://github.com/jonelrichardson-spec/vivino-clone.git
+git clone https://github.com/jonelrichardson/vivino-clone.git
 cd vivino-clone
 npm install
 npm run dev
@@ -59,4 +59,5 @@ Built during Pursuit's AI-Native Builder Fellowship (February 2026) with teammat
 
 ---
 
-Built by [Jonel Richardson](https://linkedin.com/in/jonel-richardson-09a399382)
+Built by [Jonel Richardson](https://linkedin.com/in/jonel-richardson
+)
